@@ -7,7 +7,7 @@
 
 1. <a href="http://draw.io/" target="_blank">http://draw.io</a>
 2. Click: Decide later
-3. File > Open from > Github... > hurdleg/qnx-message-passing-qnx > QNX-MESSAGE-PASSING-TSD.xml
+3. File > Open from > Github... > hurdleg/qnx-message-passing-tsd > QNX-Native-Message-Passing.html
 
 ### Author
 Gerald.Hurdle@AlgonquinCollege.com
